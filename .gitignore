@@ -1,0 +1,18 @@
+# IDE / caches
+.vs/
+.idea/
+*.user
+
+# builds
+cmake-build-*/
+out/
+build/
+*.exe
+*.ilk
+*.pdb
+*.obj
+
+# SFML extras
+external/sfml-win-x64/doc/
+external/sfml-win-x64/examples/
+external/sfml-win-x64/lib/Debug/
